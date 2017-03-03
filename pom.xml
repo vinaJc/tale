@@ -8,6 +8,7 @@
     <artifactId>tale</artifactId>
     <version>1.03</version>
 
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <mysql.version>5.1.38</mysql.version>
